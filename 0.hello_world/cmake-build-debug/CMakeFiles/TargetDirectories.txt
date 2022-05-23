@@ -1,3 +1,4 @@
-/home/nkabylbay/CLionProjects/learn-cpp/0.hello_world/cmake-build-debug/CMakeFiles/learn_cpp.dir
+/home/nkabylbay/CLionProjects/learn-cpp/0.hello_world/cmake-build-debug/CMakeFiles/0.hello_world_main.dir
+/home/nkabylbay/CLionProjects/learn-cpp/0.hello_world/cmake-build-debug/CMakeFiles/0.hello_world_cin.dir
 /home/nkabylbay/CLionProjects/learn-cpp/0.hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/nkabylbay/CLionProjects/learn-cpp/0.hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
